@@ -8,6 +8,3 @@
 Краткий журнал итераций проекта.
 
 ## Записи
-Пока нет записей.
-
-Шаблон записи: `agent_docs/templates/development-history.md`
