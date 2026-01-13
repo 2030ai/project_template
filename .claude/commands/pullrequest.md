@@ -13,9 +13,6 @@ allowed-tools: Bash, Read, Write, Edit, Glob, Grep, TodoWrite, AskUserQuestion
 - Для проверки существующего PR перед мержем
 - "/pullrequest" или "/pullrequest 27" (с номером PR)
 
-## ВАЖНО: Репозиторий
-
-Этот скилл работает с репозиторием `2030ai/2023ai_tutor`.
 
 ## Инструкции
 
