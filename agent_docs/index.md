@@ -7,11 +7,11 @@
 - `agent_docs/adr.md` — архитектурные решения и компромиссы; использовать при важных решениях.
 - `agent_docs/development-history.md` — журнал итераций; смотреть последнюю запись. Архив: `agent_docs/development-history-archive.md`.
 
-## Дополнительные
-- `agent_docs/dod.md` — критерии завершенности (DoD).
-- `agent_docs/logging.md` — логирование скриптов/интеграций.
-- `agent_docs/archiving-and-temp.md` — архивация и временные файлы.
-- `agent_docs/environment-setup.md` — правила настройки окружения; применять при инициализации проекта.
+## Правила и гайды
+- `agent_docs/guides/dod.md` — критерии завершенности (DoD).
+- `agent_docs/guides/environment-setup.md` — настройка окружения; применять при инициализации проекта.
+- `agent_docs/guides/logging.md` — логирование скриптов/интеграций.
+- `agent_docs/guides/archiving-and-temp.md` — архивация и временные файлы.
 
 ## Шаблоны
 - `agent_docs/templates/architecture.md`
