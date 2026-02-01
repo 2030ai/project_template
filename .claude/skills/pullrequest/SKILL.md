@@ -107,12 +107,14 @@ Reply with 👍 if no issues found."
 sleep 300  # 5 минут на review
 ```
 
-### 5. Проверка комментариев
+### 5. Проверка комментариев и reviews
 
 ```bash
 # Получить комментарии PR
 gh api repos/{owner}/{repo}/pulls/{pr}/comments
 gh api repos/{owner}/{repo}/issues/{pr}/comments
+# Получить PR reviews (для обнаружения 👍/LGTM от Codex)
+gh api repos/{owner}/{repo}/pulls/{pr}/reviews
 ```
 
 ### 6. Валидация комментария
